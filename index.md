@@ -8,6 +8,7 @@
 		h1{font-size:50px;}
 		h3{font-size:28px;}
 		h5{font-size:25px;}
+	table{background-color: gray;}
     </style>
   </head>
   <body>
